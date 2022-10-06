@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@cybozu/eslint-config": "^17.0.3",
+    "eslint": "^8.24.0"
+  }
+}
